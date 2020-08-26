@@ -21,8 +21,12 @@ The following are some code to check if the given expression is balanced parenth
 ### The Codes are available in following lanugage:
 
 <ol>
-  <li> Python </li>
+  <li> Python </li> 
 </ol>
+
+#### Run the codes 
+
+`python parent_checker_python.py`
 
 #### Future additions:
 Codes in other lanuage like C,C++,JAVA etc...
