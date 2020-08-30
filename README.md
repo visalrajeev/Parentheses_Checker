@@ -1,4 +1,4 @@
-﻿# Parantheses_Checker
+﻿# Parentheses_Checker
 
 The following are some code to check if the given expression is balanced parentheses or not
 <br>
