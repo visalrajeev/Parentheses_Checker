@@ -22,11 +22,14 @@ The following are some code to check if the given expression is balanced parenth
 
 <ol>
   <li> Python </li> 
+  <li> C </li>
 </ol>
 
 #### Run the codes 
 
-`python parent_checker_python.py`
+1. For python - `python parent_checker.py`
+2. For C - Compile the file using `gcc parent_checker.c -o parent_checker` 
+<br>       After compiling, execute the file using `parent_checker.exe`
 
 #### Future additions:
-Codes in other lanuage like C,C++,JAVA etc...
+Codes in other lanuage like C++, JAVA etc...
