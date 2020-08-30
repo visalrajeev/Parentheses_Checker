@@ -11,8 +11,8 @@ The following are some code to check if the given expression is balanced parenth
 <li> Now traverse the expression string exp. </li>
   
 <ul>
-<li> If the current character is a starting bracket __(__ ‘(‘ or ‘{‘ or ‘[‘ **)** then push it to stack. </li>
-<li> If the current character is a closing bracket **(** ‘)’ or ‘}’ or ‘]’ **)** then pop from stack and if the popped character is the matching starting bracket then fine else parenthesis are not balanced.</li>
+  <li> If the current character is a starting bracket <strong>(</strong> ‘(‘ or ‘{‘ or ‘[‘ <strong>)</strong>then push it to stack. </li>
+<li> If the current character is a closing bracket <strong>(</strong> ‘)’ or ‘}’ or ‘]’ <strong>)</strong> then pop from stack and if the popped character is the matching starting bracket then fine else parenthesis are not balanced.</li>
  </ul>
   
 <li> After complete traversal, if there is some starting bracket left in stack then “not balanced” </li>
