@@ -12,6 +12,7 @@ def peek():
 def show():
   return stack
 
+print("Enter the parentheses expression:")
 word = input()
 
 flag = 1
