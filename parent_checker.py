@@ -12,7 +12,7 @@ def peek():
 def show():
   return stack
 
-word = '[()]{}{[()()]()}'
+word = input()
 
 flag = 1
 
