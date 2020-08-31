@@ -27,9 +27,10 @@ The following are some code to check if the given expression is balanced parenth
 
 #### Run the codes 
 
-1. For python - `python parent_checker.py`
-2. For C - Compile the file using `gcc parent_checker.c -o parent_checker` 
-<br>       After compiling, execute the file using `parent_checker.exe`
+1. For Python - `python parent_checker.py`
+2. For C - Compile the file using `gcc parent_checker.c` 
+           After that create an executable file using `gcc -o parent_checker parent_checker.c`
+<br>       After creating executable file, execute the file using `parent_checker.exe`
 
 #### Future additions:
 Codes in other lanuage like C++, JAVA etc...
