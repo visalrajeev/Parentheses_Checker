@@ -59,7 +59,10 @@ int main()
   initialize();
 
   //char word[100] = "[(])”"; == Unbalanced
-  char word[100] = "[()]{}{[()()]()}"; // == Balanced
+  //char word[100] = "[()]{}{[()()]()}"; // == Balanced
+  char word[100];
+  printf("Enter the parantheses expression:"); //Enter your own expression
+  scanf("%s",word);
   int len = strlen(word);
   int i, flag = 1;
 
