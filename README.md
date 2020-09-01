@@ -23,6 +23,7 @@ The following are some code to check if the given expression is balanced parenth
 <ol>
   <li> Python </li> 
   <li> C </li>
+  <li> JAVA </li>   
 </ol>
 
 #### Run the codes 
@@ -31,6 +32,8 @@ The following are some code to check if the given expression is balanced parenth
 2. For C - Compile the file using `gcc parent_checker.c` 
 <br>       After that create an executable file using `gcc -o parent_checker parent_checker.c`
 <br>       After creating executable file, execute the file using `parent_checker.exe`
+3. For JAVA - Compile the file using `javac Parent_checker.java`
+<br>          After that run the file using `java Parent_checker`
 
 #### Future additions:
-Codes in other lanuage like C++, JAVA etc...
+Codes in other lanuage like C++, Javascript etc...
