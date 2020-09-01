@@ -1,9 +1,9 @@
-﻿# Parentheses_Checker
+﻿# Parenthesis_Checker
 
-The following are some code to check if the given expression is balanced parentheses or not
+The following are some code to check if the given expression is balanced parenthesis or not
 <br>
-<strong>Balanced parentheses:</strong> "[()]{}{[()()]()}" <br>
-<strong>UnBalanced parentheses:</strong> "[(])"
+<strong>Balanced parenthesis:</strong> "[()]{}{[()()]()}" <br>
+<strong>UnBalanced parenthesis:</strong> "[(])"
 
 ### Algorithm
 <ul>
