@@ -41,7 +41,7 @@ class Stack
 
 }
 
-public class Main
+public class Parent_checker
 {
   public static void main(String args[])
   {
