@@ -34,7 +34,7 @@ for i in word:
     elif j == '[' and i == ']':
       Pop()
       
-     else:
+    else:
       flag = 0
 
   elif i in '({[':
