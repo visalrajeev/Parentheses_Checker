@@ -89,6 +89,10 @@ int main()
         {
           pop();
         }
+        else
+        {
+          flag = 0;
+        }
       }
     }
     else
