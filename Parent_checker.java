@@ -78,6 +78,10 @@ public class Parent_checker
           {
             s.pop();
           }
+          else
+          {
+            flag = 0;
+          }
         }
       }
       else
